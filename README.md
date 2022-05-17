@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oguzyurek
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning javaScript
+Hi, I’m @oguzyurek
+I’m interested in javaScript
+I’m currently learning javaScript
 
 
 <!---
